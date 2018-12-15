@@ -1,6 +1,6 @@
 {
   "name": "rexin-backend",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Rexin Backend based on Node/Express",
   "engines": {
     "node": "8.11.1",
