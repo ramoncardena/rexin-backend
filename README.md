@@ -1,9 +1,8 @@
-#  Node.js API REST backend for Rexin Frontend
+# Node.js API REST backend for Rexin Frontend
 
-[![Author](http://img.shields.io/badge/author-@ramoncardnea-blue.svg?style=flat-square)](https://twitter.com/davellanedam)
-[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](https://github.com/davellanedam/node-express-mongodb-jwt-rest-api-skeleton/blob/master/LICENSE)
+[![Author](http://img.shields.io/badge/author-@ramoncardnea-blue.svg?style=flat-square)](https://twitter.com/ramon_cardena)
+[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](https://github.com/ramoncardena/rexin-frontend/blob/master/LICENSE)
 ![releaste](https://img.shields.io/badge/release-v.1.0.1-green.svg?style=flat-square)
-
 
 ## Getting started
 
@@ -16,7 +15,8 @@ This is a API REST backend for [Rexin Frontend](https://github.com/ramoncardena/
 In this readme file I'll document only additional features.
 
 ## Demo
-The project is deployed to **Heroku**. 
+
+The project is deployed to **Heroku**.
 
 You can see the frontend here:
 [Rexin Frontend](https://rexin-frontend.herokuapp.com)
@@ -26,11 +26,9 @@ If you want to test the backend with Postman, it's here:
 
 The repo is ready to deploy to Heroku with a Heroku Post-process hook.
 
-
 ## Additional Features
 
 - Contact Form with [Mailgun](https://www.mailgun.com/)
-
 
 ## Requirements
 
@@ -65,7 +63,6 @@ npm install nodemon -g
 ### Mailgun
 
 To ensure the deliverability of emails sent by this API, `Mailgun` is used for mailing users when they sign up, so if you want to use that feature go sign up at their website https://www.mailgun.com.
-
 
 ## How to run
 
@@ -119,22 +116,18 @@ npm run format
 
 Once everything is set up to test API routes either use Postman or any other api testing application. Default username/password combination for login is `admin@admin.com/12345`.
 
-
 ## Bugs or improvements
 
 Feel free to report any bugs or improvements. Pull requests are always welcome.
-
 
 ## I love this! How can I help?
 
 It´s amazing you feel like that! Send me a tweet [Ramon Cardena](https://twitter.com/ramon_cardena), share this with others, make a pull request!
 
-
 ##Acknowledgements
 Grateful to the Daniel Avellaneda for this great repo!
 
 [Daniel Avellaneda (@davellanedam)](https://github.com/davellanedam)
-
 
 ## License
 
