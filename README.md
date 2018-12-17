@@ -7,7 +7,7 @@
 
 ## Getting started
 
-This is a API REST backend for [Rexin Frontend](https://github.com/ramoncardena/rexin-backend).
+This is a API REST backend for [Rexin Frontend](https://github.com/ramoncardena/rexin-frontend).
 
 **The repo is based on [Daniel Avellaneda](https://github.com/davellanedam)'s [Node.js express.js MongoDB JWT REST API - Basic Project Skeleton](https://github.com/davellanedam/node-express-mongodb-jwt-rest-api-skeleton).**
 
