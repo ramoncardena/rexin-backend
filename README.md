@@ -2,7 +2,8 @@
 
 [![Author](http://img.shields.io/badge/author-@ramoncardnea-blue.svg?style=flat-square)](https://twitter.com/davellanedam)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](https://github.com/davellanedam/node-express-mongodb-jwt-rest-api-skeleton/blob/master/LICENSE)
-[![Release](https://img.shields.io/github/release/ramoncardena/rexin-backend.svg?style=flat-square)](https://github.com/ramoncardena/rexin-backend/releases)
+![releaste](https://img.shields.io/badge/release-v.1.0.1-green.svg)
+
 
 ## Getting started
 
@@ -116,10 +117,12 @@ Feel free to report any bugs or improvements. Pull requests are always welcome.
 
 It´s amazing you feel like that! Send me a tweet [Ramon Cardena](https://twitter.com/ramon_cardena), share this with others, make a pull request!
 
+
 ##Acknowledgements
 Grateful to the Daniel Avellaneda for this great repo!
 
 [Daniel Avellaneda (@davellanedam)](https://github.com/davellanedam)
+
 
 ## License
 
