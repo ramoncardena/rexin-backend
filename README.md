@@ -2,7 +2,7 @@
 
 [![Author](http://img.shields.io/badge/author-@ramoncardnea-blue.svg?style=flat-square)](https://twitter.com/davellanedam)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](https://github.com/davellanedam/node-express-mongodb-jwt-rest-api-skeleton/blob/master/LICENSE)
-![releaste](https://img.shields.io/badge/release-v.1.0.1-green.svg)
+![releaste](https://img.shields.io/badge/release-v.1.0.1-green.svg?style=flat-square)
 
 
 ## Getting started
@@ -14,6 +14,18 @@ This is a API REST backend for [Rexin Frontend](https://github.com/ramoncardena/
 **Please check Daniel's repository readme to lean about the project.**
 
 In this readme file I'll document only additional features.
+
+## Demo
+The project is deployed to **Heroku**. 
+
+You can see the frontend here:
+[Rexin Frontend](https://rexin-frontend.herokuapp.com)
+
+If you want to test the backend with Postman, it's here:
+[Rexin Backend](https://rexin-backend.herokuapp.com)
+
+The repo is ready to deploy to Heroku with a Heroku Post-process hook.
+
 
 ## Additional Features
 
